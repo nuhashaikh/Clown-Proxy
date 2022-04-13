@@ -1,13 +1,13 @@
 # Clown-Proxy
-before compiling -> Configure
+**Configure & Compile**
+
+*Configure*
 
 -   Make sure to change the SERVEPORT number to an unused 5 digit port on your machine
 
 -   Go to a google chrome incognito window
 
 -   Click the menu button  on the top right corner
-
-**Configure & Compile**
 
 -   Click the settings option
 
@@ -23,7 +23,7 @@ before compiling -> Configure
 
 -   Enter the SERVEPORT number you had changed in the proxy_two.c file
 
-Compile (typing following commands in terminal)
+*Compile (typing following commands in terminal)*
 
 1.  gcc proxy_two.c -o proxy
 
